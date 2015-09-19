@@ -1,0 +1,22 @@
+/* navbar */
+.navbar-default {
+    background-color: #5F9EA0;
+    border-color: #E7E7E7;
+}
+#contact {
+	padding-top:75px;
+	font-family:sans-serif;
+}
+ul.social-list {
+    text-align: center;
+    margin: 0px auto;
+}
+li, ol, ul {
+    list-style: outside none none;
+}
+.img-responsive {
+	margin: auto;
+}
+.btn {
+	margin: auto;
+}
