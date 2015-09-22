@@ -23,8 +23,11 @@ li, ol, ul {
 .container a{
 	text-decoration: none;
 }
+#team{
+	position: fixed;
+}
 .team{
-  position: absolute;
+  position: absolute ;
   top:100px;
   right:0px;
   background: #006699;
